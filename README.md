@@ -24,13 +24,6 @@
 
   <br />
   <br />
-<div align="center">
-  <a href="https://github.com/parodin">
-    <img src="https://github-readme-stats-marabunta.vercel.app/api?username=parodin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-marabunta.vercel.app/api/top-langs/?username=parodin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="Top Langs" />
-  </a>
-</div>
-  <br />
 
   <a href="https://ko-fi.com/marabunta" target="_blank">
     <img src="https://img.shields.io/badge/Support%20the%20Lab-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me" />
