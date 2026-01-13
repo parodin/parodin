@@ -25,9 +25,9 @@
   <br />
   <br />
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parodo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/parodo)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parodin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/parodin)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parodo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/parodo)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parodin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/parodin)
 
   <br />
 
