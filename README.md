@@ -25,7 +25,7 @@
   <br />
   <br />
 <div align="center">
-  <a href="https://github.com/parodo">
+  <a href="https://github.com/parodin">
     <img src="https://github-readme-stats-marabunta-labs.vercel.app/api?username=parodin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="GitHub Stats" />
     <img src="https://github-readme-stats-marabunta-labs.vercel.app/api/top-langs/?username=parodin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="Top Langs" />
   </a>
