@@ -24,11 +24,12 @@
 
   <br />
   <br />
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parodin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/parodin)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parodin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a)](https://github.com/parodin)
-
+<div align="center">
+  <a href="https://github.com/parodo">
+    <img src="https://github-readme-stats-marabunta-labs.vercel.app/api?username=parodin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-marabunta-labs.vercel.app/api/top-langs/?username=parodin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="Top Langs" />
+  </a>
+</div>
   <br />
 
   <a href="https://ko-fi.com/marabunta" target="_blank">
